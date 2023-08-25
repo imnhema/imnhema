@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋. I am an aspiring cyber security analyst hacking towards a position in a purple team. I’m currently learning **Azure Administration, Ethical Hacking, Threat Hunting, Vulnerability Assessment and the Microsoft Security Stack**.
+Hi there 👋. I am an aspiring cyber security analyst hacking towards a position in a purple team. I’m currently learning **Azure Administration, DevOps, Ethical Hacking, Threat Hunting, Vulnerability Assessment and the Microsoft Security Stack**.
 
 
 # 💻 Tech Stack:
