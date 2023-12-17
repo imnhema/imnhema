@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋. I am a cyber security enthusiast hacking into an Azure Security Engineer role. I’m learning **Azure, DevOps, Ethical Hacking, and the Microsoft Security Stack**. Currently certified in CompTIA's **Network+ and Security+**, Microsoft's **SC-900 and SC-200** and a **Cert IV in Cyber Security.**
+Hi there 👋. I am a cyber security/cloud computing enthusiast upskilling to an Azure Security Engineer role. I’m currently learning **Azure, DevOps, Ethical Hacking, and the Microsoft Security Stack**. Currently certified in CompTIA's **Network+ and Security+**, Microsoft's **SC-900 and SC-200** and a **Cert IV in Cyber Security.**
 
 
 # 💻 Tech Stack:
