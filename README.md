@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm imnhema 👋</h1>
 
 ## About Me
-I'm a cyber security and data analytics enthusiast currently pursuing an Associate Degree in Data Analytics at the University of South Australia Online. I'm passionate about learning new technologies and building skills at the intersection of security and data analysis.
+I'm a cyber security and data analytics enthusiast currently pursuing an Associate Degree in Data Analytics with the University of South Australia (Online). I'm passionate about learning new technologies and building skills at the intersection of security and data analysis.
 
 ## Learning Journey
 I believe in continuous learning and practical application. Every day is an opportunity to build new skills and deepen my understanding of technology. I'm documenting my educational journey here on GitHub, where you can follow my progress through course projects and personal explorations.
