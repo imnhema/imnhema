@@ -21,15 +21,11 @@ I believe in continuous learning and practical application. Every day is an oppo
 | 2022 | Cyber Security Foundations | CyberCX |
 | 2021 | Certificate IV in Cyber Security | Box Hill Institute |
 
-## Current Coursework (Work in Progress)
-I'm building repositories for my university courses to showcase my learning and progress:
-- INFT1024: Information Technology Fundamentals
-- COMP1043: Problem Solving and Programming
+## Projects (Work in Progress)
+I'm building repositories for my university and personal projects (Coming Soon)
 
 ## Technical Skills (Developing)
-- Languages: Learning Python, R, SQL basics, HTML/CSS, JavaScript
-- Tools: Getting familiar with Git, Microsoft Office Suite, Basic Data Visualisation
-- Platforms: Cloud (AWS and Azure), Linux, Mac, Windows
+Technical skills will be added here to highlght skills acquired so far. (Coming Soon)
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imnhema&theme=default)
