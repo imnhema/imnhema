@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm imnhema 👋</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+imnhema+%F0%9F%91%8B)](https://git.io/typing-svg)</h1>
 
 ## About Me
 I'm a cyber security and data analytics enthusiast currently pursuing an Associate Degree in Data Analytics with the University of South Australia (Online). I'm passionate about learning new technologies and building skills at the intersection of security and data analysis.
