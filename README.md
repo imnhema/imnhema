@@ -22,7 +22,7 @@ I'm a cyber security and data analytics enthusiast currently pursuing an Associa
 ## Projects (Work in Progress)
 - 🔭 I’m currently working on creating a digital knowledge base for my future self: [my second brain.](https://imnhema.github.io)
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 
 `azure` `bash` `bootstrap` `css` `docker` `html` `javascript` `jekyll` `microsoft sql-server` `.NET` `python` `r`
 
