@@ -1,17 +1,13 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+imnhema+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm imnhema</h1>
 
 ## About Me
-I'm a cyber security and data analytics enthusiast currently pursuing an Associate Degree in Data Analytics with the University of South Australia (Online). I'm passionate about learning new technologies and building skills at the intersection of security and data analysis.
-
-## Learning Journey
-I believe in continuous learning and practical application. Every day is an opportunity to build new skills and deepen my understanding of technology. I'm documenting my educational journey here on GitHub, where you can follow my progress through course projects and personal explorations.
+I'm a cyber security and data analytics enthusiast currently pursuing an Associate Degree in Data Analytics online with the [Adelaide University](https://www.adelaide.edu.au/). I'm passionate about learning new technologies and building skills at the intersection of security and data analysis.
 
 ## Current Focus
-- 🔒 **Cyber Security** - Developing security knowledge and practical skills
-- 📊 **Data Analytics** - Building foundations through my university studies
-- 💻 **Programming** - Learning languages and tools for data analysis and automation
+
+- **Cyber Security** - Developing security knowledge and practical skills
+- **Data Analytics** - Building foundations through my university studies
+- **System Administration** - Building infrastructure knowledge with the help of a homelab
 
 ## Education & Certifications
 
@@ -20,18 +16,16 @@ I believe in continuous learning and practical application. Every day is an oppo
 | Current | Associate Degree in Data Analytics | University of South Australia Online |
 | 2023 | CompTIA Security+ | CompTIA |
 | 2023 | CompTIA Network+ | CompTIA |
-| 2022 | Cyber Security Foundations | CyberCX |
+| 2022 | Cyber Security Foundations | CyberCX (Digital Jobs Victoria)|
 | 2021 | Certificate IV in Cyber Security | Box Hill Institute |
 
 ## Projects (Work in Progress)
-I'm building repositories for my university and personal projects (Coming Soon)
+- 🔭 I’m currently working on creating a digital knowledge base for my future self: [my second brain.](https://imnhema.github.io)
 
-## Technical Skills (Developing)
-Technical skills will be added here to highlght skills acquired so far. (Coming Soon)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imnhema&theme=default)
 
 ---
-
-*This profile is actively evolving as I progress through my studies and develop new projects. Check back regularly to see my growth!*
