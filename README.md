@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm imnhema</h1>
 
 ## About Me
-I'm a cyber security and data analytics student currently pursuing an Associate Degree in Data Analytics (online) with the [Adelaide University](https://www.adelaide.edu.au/) while working full-time in Melbourne. I'm passionate about learning new technologies and building skills at the intersection of security and data analysis.
+
+I'm pursuing an Associate Degree in Data Analytics (online) with [Adelaide University](https://www.adelaide.edu.au/) while working full-time in Melbourne. I'm passionate about learning new technologies and developing skills at the intersection of cybersecurity and data analysis.
 
 ## Current Focus
 
