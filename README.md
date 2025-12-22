@@ -6,8 +6,8 @@ I'm pursuing an Associate Degree in Data Analytics (online) with [Adelaide Unive
 
 ## Current Focus
 
-- **Cyber Security** - Developing security knowledge and practical skills
-- **Data Analytics** - Building foundations through my university studies
+- **Cybersecurity** - Developing security knowledge and practical skills through homelab projects and CTF challenges
+- **Data Analytics** - Building statistical analysis and visualisation foundations through university studies
 
 ## Education & Certifications
 
@@ -20,7 +20,7 @@ I'm pursuing an Associate Degree in Data Analytics (online) with [Adelaide Unive
 | 2021 | Certificate IV in Cyber Security | Box Hill Institute |
 
 ## Projects (Work in Progress)
-- 🔭 I’m currently working on creating a digital knowledge base for my future self: [my second brain.](https://imnhema.github.io)
+- 🔭 Currently building a digital knowledge base for future reference: [my second brain](https://imnhema.github.io)
 
 ## Languages and Tools
 
