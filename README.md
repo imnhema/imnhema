@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm imnhema</h1>
 
 ## About Me
-I'm a cyber security and data analytics enthusiast currently pursuing an Associate Degree in Data Analytics online with the [Adelaide University](https://www.adelaide.edu.au/) while working full-time in Melbourne. I'm passionate about learning new technologies and building skills at the intersection of security and data analysis.
+I'm a cyber security and data analytics student currently pursuing an Associate Degree in Data Analytics online with the [Adelaide University](https://www.adelaide.edu.au/) while working full-time in Melbourne. I'm passionate about learning new technologies and building skills at the intersection of security and data analysis.
 
 ## Current Focus
 
 - **Cyber Security** - Developing security knowledge and practical skills
 - **Data Analytics** - Building foundations through my university studies
-- **System Administration** - Building infrastructure knowledge with the help of a homelab
 
 ## Education & Certifications
 
@@ -24,6 +23,6 @@ I'm a cyber security and data analytics enthusiast currently pursuing an Associa
 
 ## Languages and Tools
 
-`azure` `bash` `bootstrap` `css` `docker` `html` `javascript` `jekyll` `microsoft sql-server` `.NET` `python` `r`
+`aws` `azure` `bash` `bootstrap` `css` `docker` `html` `javascript` `jekyll` `microsoft sql-server` `.net` `python` `r`
 
 ---
